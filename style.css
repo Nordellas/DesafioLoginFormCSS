@@ -1,0 +1,15 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root 
+{
+  --text-base: hsl(218, 13%, 72%);
+  --text-title: hsl(44, 26%, 77%);
+  --background: hsl(40, 6%, 9%);
+  --form-background: hsl(36, 7%, 13%);
+  --primary-color: hsl(43, 100%, 60%);
+}
